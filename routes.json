@@ -1,6 +1,55 @@
 {
-    "/books": "Books",
-    "/bios": "Bios",
-    "/cats":"Cats",
-    "/dogs":"Dogs"
+  "homepage": {
+    "title": "Welcome to Our Online Store",
+    "meta_description": "Discover the latest in fashion and accessories. Shop now for the best deals on women's clothing.",
+    "banners": [
+      {
+        "banner_id": "banner001",
+        "title": "Summer Collection",
+        "description": "Explore our new summer collection for women.",
+        "image_url": "https://example.com/images/summer-collection.jpg",
+        "link_url": "https://example.com/summer-collection"
+      },
+      {
+        "banner_id": "banner002",
+        "title": "50% Off Sale",
+        "description": "Don't miss out on our massive sale. Up to 50% off on selected items!",
+        "image_url": "https://example.com/images/50-off-sale.jpg",
+        "link_url": "https://example.com/sale"
+      },
+      {
+        "banner_id": "banner003",
+        "title": "New Arrivals",
+        "description": "Check out the latest arrivals in women's fashion.",
+        "image_url": "https://example.com/images/new-arrivals.jpg",
+        "link_url": "https://example.com/new-arrivals"
+      }
+    ],
+    "featured_products": [
+      {
+        "product_id": "001",
+        "name": "Floral Summer Dress",
+        "price": 45.00,
+        "currency": "USD",
+        "image_url": "https://example.com/images/floral-summer-dress.jpg",
+        "link_url": "https://example.com/floral-summer-dress"
+      },
+      {
+        "product_id": "002",
+        "name": "Denim Jacket",
+        "price": 70.00,
+        "currency": "USD",
+        "image_url": "https://example.com/images/denim-jacket.jpg",
+        "link_url": "https://example.com/denim-jacket"
+      },
+      {
+        "product_id": "003",
+        "name": "Leather Handbag",
+        "price": 120.00,
+        "currency": "USD",
+        "image_url": "https://example.com/images/leather-handbag.jpg",
+        "link_url": "https://example.com/leather-handbag"
+      }
+    ]
+  }
 }
