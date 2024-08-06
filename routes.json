@@ -7,22 +7,22 @@
         "banner_id": "banner001",
         "title": "Summer Collection",
         "description": "Explore our new summer collection for women.",
-        "image_url": "https://www.pexels.com/photo/woman-in-a-floral-dress-standing-on-the-beach-1497695/",
-        "link_url": "https://example.com/summer-collection"
+        "image_url": "https://mycomfyblouse.com/cdn/shop/products/HOUSE-OF-CB-Carmen-Floral-Bustier-Sundress-Alterna-_7__900x_183b4a73-4896-4333-abdd-eeab18794b51_600x@2x.jpg?v=1695224567",
+        "link_url": "https://mycomfyblouse.com/cdn/shop/products/HOUSE-OF-CB-Carmen-Floral-Bustier-Sundress-Alterna-_7__900x_183b4a73-4896-4333-abdd-eeab18794b51_600x@2x.jpg?v=1695224567"
       },
       {
         "banner_id": "banner002",
         "title": "50% Off Sale",
         "description": "Don't miss out on our massive sale. Up to 50% off on selected items!",
-        "image_url": "https://www.pexels.com/photo/woman-wearing-red-and-white-stripe-dress-1594697/",
-        "link_url": "https://example.com/sale"
+        "image_url": "https://m.media-amazon.com/images/I/71+gK6db4tL._AC_UY1000_.jpg",
+        "link_url": "https://m.media-amazon.com/images/I/71+gK6db4tL._AC_UY1000_.jpg"
       },
       {
         "banner_id": "banner003",
         "title": "New Arrivals",
         "description": "Check out the latest arrivals in women's fashion.",
-        "image_url": "https://www.pexels.com/photo/woman-wearing-white-shirt-2609492/",
-        "link_url": "https://example.com/new-arrivals"
+        "image_url": "https://assets.vogue.com/photos/5f1a3e4c21b4d28a24fe9db9/3:4/w_748%2Cc_limit/Hanes%2520Slide.jpg",
+        "link_url": "https://assets.vogue.com/photos/5f1a3e4c21b4d28a24fe9db9/3:4/w_748%2Cc_limit/Hanes%2520Slide.jpg"
       }
     ],
     "featured_products": [
@@ -31,24 +31,24 @@
         "name": "Floral Summer Dress",
         "price": 45.00,
         "currency": "USD",
-        "image_url": "https://www.pexels.com/photo/woman-wearing-floral-dress-3886470/",
-        "link_url": "https://example.com/floral-summer-dress"
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVUKeTLXtKd8urQO7RvmXT6rlSUmwEZI86w&s",
+        "link_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVUKeTLXtKd8urQO7RvmXT6rlSUmwEZI86w&s"
       },
       {
         "product_id": "002",
         "name": "Denim Jacket",
         "price": 70.00,
         "currency": "USD",
-        "image_url": "https://www.pexels.com/photo/woman-wearing-denim-jacket-3357554/",
-        "link_url": "https://example.com/denim-jacket"
+        "image_url": "https://assets.burberry.com/is/image/Burberryltd/FEA1D9F3-F88A-4407-B869-257410906113?$BBY_V3_SL_1$&wid=1250&hei=1250",
+        "link_url": "https://assets.burberry.com/is/image/Burberryltd/FEA1D9F3-F88A-4407-B869-257410906113?$BBY_V3_SL_1$&wid=1250&hei=1250"
       },
       {
         "product_id": "003",
         "name": "Leather Handbag",
         "price": 120.00,
         "currency": "USD",
-        "image_url": "https://www.pexels.com/photo/woman-holding-brown-leather-handbag-3408741/",
-        "link_url": "https://example.com/leather-handbag"
+        "image_url": "https://i.etsystatic.com/6946538/r/il/11e585/2786474229/il_794xN.2786474229_82yy.jpg",
+        "link_url": "https://i.etsystatic.com/6946538/r/il/11e585/2786474229/il_794xN.2786474229_82yy.jpg"
       }
     ]
   }
