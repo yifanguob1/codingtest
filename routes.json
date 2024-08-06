@@ -7,21 +7,21 @@
         "banner_id": "banner001",
         "title": "Summer Collection",
         "description": "Explore our new summer collection for women.",
-        "image_url": "https://example.com/images/summer-collection.jpg",
+        "image_url": "https://www.pexels.com/photo/woman-in-a-floral-dress-standing-on-the-beach-1497695/",
         "link_url": "https://example.com/summer-collection"
       },
       {
         "banner_id": "banner002",
         "title": "50% Off Sale",
         "description": "Don't miss out on our massive sale. Up to 50% off on selected items!",
-        "image_url": "https://example.com/images/50-off-sale.jpg",
+        "image_url": "https://www.pexels.com/photo/woman-wearing-red-and-white-stripe-dress-1594697/",
         "link_url": "https://example.com/sale"
       },
       {
         "banner_id": "banner003",
         "title": "New Arrivals",
         "description": "Check out the latest arrivals in women's fashion.",
-        "image_url": "https://example.com/images/new-arrivals.jpg",
+        "image_url": "https://www.pexels.com/photo/woman-wearing-white-shirt-2609492/",
         "link_url": "https://example.com/new-arrivals"
       }
     ],
@@ -31,7 +31,7 @@
         "name": "Floral Summer Dress",
         "price": 45.00,
         "currency": "USD",
-        "image_url": "https://example.com/images/floral-summer-dress.jpg",
+        "image_url": "https://www.pexels.com/photo/woman-wearing-floral-dress-3886470/",
         "link_url": "https://example.com/floral-summer-dress"
       },
       {
@@ -39,7 +39,7 @@
         "name": "Denim Jacket",
         "price": 70.00,
         "currency": "USD",
-        "image_url": "https://example.com/images/denim-jacket.jpg",
+        "image_url": "https://www.pexels.com/photo/woman-wearing-denim-jacket-3357554/",
         "link_url": "https://example.com/denim-jacket"
       },
       {
@@ -47,7 +47,7 @@
         "name": "Leather Handbag",
         "price": 120.00,
         "currency": "USD",
-        "image_url": "https://example.com/images/leather-handbag.jpg",
+        "image_url": "https://www.pexels.com/photo/woman-holding-brown-leather-handbag-3408741/",
         "link_url": "https://example.com/leather-handbag"
       }
     ]
