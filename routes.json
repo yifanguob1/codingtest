@@ -49,6 +49,22 @@
         "currency": "USD",
         "image_url": "https://i.etsystatic.com/6946538/r/il/11e585/2786474229/il_794xN.2786474229_82yy.jpg",
         "link_url": "https://i.etsystatic.com/6946538/r/il/11e585/2786474229/il_794xN.2786474229_82yy.jpg"
+      },
+      {
+        "product_id": "004",
+        "name": "Women's Jeans",
+        "price": 90.00,
+        "currency": "USD",
+        "image_url": "https://res.cloudinary.com/stitch-fix/image/upload/f_auto,q_auto,w_600/v1701798239/landing-pages/pages/US/women/jeans/distressed-knee.jpg",
+        "link_url": "https://res.cloudinary.com/stitch-fix/image/upload/f_auto,q_auto,w_600/v1701798239/landing-pages/pages/US/women/jeans/distressed-knee.jpg"
+      },
+            {
+        "product_id": "005",
+        "name": "Women's Socks",
+        "price": 15.00,
+        "currency": "USD",
+        "image_url": "https://www.softmoc.com/items/images/RCS610W-ATK_XX3.jpg",
+        "link_url": "https://www.softmoc.com/items/images/RCS610W-ATK_XX3.jpg"
       }
     ]
   }
